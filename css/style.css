@@ -9,3 +9,34 @@ body{
 h1{
     color: rgb(155, 241, 74);
 }
+.one{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
+}
+.two{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+}
+p.three{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+h2.four{
+    text-align: left;
+    text-decoration: underline;
+    font-size: 2.5em;
+    text-shadow: 9em;
+    color: red;
+}
+h1.popular{
+    color: #f7325e;
+}
+.tropical{
+    color: #f7325e;
+    text-align: center;
+    align-items: center;
+}
+a.look{
+    color: rgb(255, 127, 206);
+}
